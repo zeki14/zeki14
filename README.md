@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some small projects to learn Java and Spring Boot 👍
 
 - 🌱 I’m currently learning Javascript's frameworks Vue.js and React.js, and starting with Java and Spring Boot...
 
@@ -10,8 +10,11 @@
 - 🤔 I’m looking for help with POO, SOLID and desing patterns...
 
 - 📫 How to reach me: 
-        My email: zequi14@hotmail.com
+         My email: zequi14@hotmail.com
+        
         My phone: +34 627655887
         
--
+        linkedin.com/in/ezequiel-gonzalez-rodriguez
+        
+
 - ⚡ Fun fact: When I would have time I want to experiment and play some music with the program SonicPi from RaspberryPi... I've just read about it but sounds perfect to me: Make MUSIC with the CODE!! I ♥ this stuff!!
