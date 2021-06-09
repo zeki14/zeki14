@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some small projects to learn Java and Spring Boot 👍
 
-- 🌱 I’m currently learning Javascript's frameworks Vue.js and React.js, and starting with Java and Spring Boot...
+- 🌱 I’m currently learning Javascript's frameworks Vue.js and React.js, and starting with Java and Spring Boot... in other hand I´m following thw Google Work In Tech Certificate imparted by Coursera and Factoria F5.
 
 - 👯 I’m looking to collaborate on some open source projects and to participate in events for the community, in both ways: attending to differents events other people share or creating some new events with another members.
 
