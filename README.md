@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on some small projects to learn Java and Spring Boot 👍
+- 🔭 I’m currently working as a RPA developer using the UiPath Studio tool.
 
-- 🌱 I’m currently learning Javascript's frameworks Vue.js and React.js, and starting with Java and Spring Boot... in other hand I´m following thw Google Work In Tech Certificate imparted by Coursera and Factoria F5.
+- 🌱 I’m currently learning following the Fullstack Certification of FreeCodeCamp and I´m willing to start the FullStackOpen.com programm from the Helsinki University.
 
 - 👯 I’m looking to collaborate on some open source projects and to participate in events for the community, in both ways: attending to differents events other people share or creating some new events with another members.
 
-- 🤔 I’m looking for help with POO, SOLID and desing patterns...
+- 🤔 I’m looking for help with TDD,  SOLID and desing patterns...
 
 - 📫 How to reach me: 
          
