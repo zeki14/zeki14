@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning following the Fullstack Certification of FreeCodeCamp and I´m willing to start the FullStackOpen.com programm from the Helsinki University.
 
-- 👯 I’m looking to collaborate on some open source projects and to participate in events for the community, in both ways: attending to differents events other people share or creating some new events with another members.
+- 👨‍💻 I feel as much javaScript I know as much I like it and as much I want to continue learning. So, My goal is to ge a job as a web developer.
 
 - 🤔 I’m looking for help with TDD,  SOLID and desing patterns...
 
